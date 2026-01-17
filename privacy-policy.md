@@ -1,6 +1,6 @@
 # Privacy Policy for Sbound
 
-**Effective Date:** 10 January 2026
+**Effective Date:** 17 January 2026
 
 ## Introduction
 
