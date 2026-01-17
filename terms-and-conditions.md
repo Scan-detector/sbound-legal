@@ -11,7 +11,7 @@ By using Sbound, you agree to these Terms and Conditions.
 - UK users: governed by the laws of England and Wales
 - Other regions: local consumer protection laws apply
 - You must be 13 or older to use this app
-
+- Users under 18 should have parental consent
 
 ---
 
